@@ -50,7 +50,7 @@ hostname = GITTUW11WSL
 
 generateResolvConf=false
 
-/etc/systemd/network/20-wslbridged.network
+## /etc/systemd/network/20-wslbridged.network
 
 [Match]
 
