@@ -63,3 +63,5 @@ Description=WSLBridged
 
 DHCP=yes
 
+## Modify Etc/hosts
+modify etc/hosts file with your own IP and hostname and innok-IP and Hostname
